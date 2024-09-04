@@ -1,2 +1,5 @@
 # minio
 minio
+
+blkid
+lsblk
